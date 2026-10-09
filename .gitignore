@@ -1,0 +1,15 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Microsoft Office temporary lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Eclipse / Papyrus temporary files
+.metadata/
+*.log
+*.tmp
+*.bak
