@@ -1,0 +1,14 @@
+Meeting Agenda Week 4
+
+To happen in online 3-4pm 27/11/2026
+Leader / Note Taker - Reuban Karthik
+
+Note the term week 4 and so on is used to segregate work and help identify, not a representation of the work that happened in corresponding academic week.
+
+Agenda
+Verify that changes have been made to Minutes Week 3 and confirm its status, also confirm the status of Minutes Week 2 v3, is it final?
+Cross check each other’s draft UML use case diagram and upload to github
+Select one key use case per subsystem to write up a use case description and then make a UMl activity diagram in papyrus
+Conduct a cross subsystem data dependency analysis to figure out where required data originates and then figure out which subsystem or user input must provide this data needed by another subsystem
+Then establish a convention for activity diagram to ensure consistency across subsystems 
+Assign the draft activity diagram and use case description so that it is done for cross check for next week 
